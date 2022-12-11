@@ -1,0 +1,8 @@
+It's 23 feb. of 2022, and i have successfully learn first coding language of my life;
+printf("I still can't beileve\n");
+
+
+Good BYE!
+
+return 0
+}
